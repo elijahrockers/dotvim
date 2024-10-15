@@ -29,7 +29,7 @@ set relativenumber
 set cursorline
 "set cursorcolumn
 "autocmd vimenter * ++nested colorscheme gotham
-colorscheme gotham
+colorscheme gruvbox
 " }}}
 
 
